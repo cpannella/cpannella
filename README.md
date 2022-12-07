@@ -1,5 +1,9 @@
 ### G'day, there 👋
 
+# I'm a developer from New Jersey currently living in Denver. I've been a touring musician and I love to ski. 
+
+
+
 ## Utility Belt.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
