@@ -1,11 +1,11 @@
-### G'day, there 👋
+## Greetings 👋
 <hr>
 
 I'm a developer from New Jersey currently living in Denver. I've been a touring musician and I love to ski. 
 
 
 
-## Utility Belt.
+### Utility Belt.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,12 +16,18 @@ I'm a developer from New Jersey currently living in Denver. I've been a touring 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-##- 🌱 I’m currently learning ...
-	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#### - 🌱 I’m currently learning ...
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on ... a fullstack clone of the whiteboarding software Miro.
+#### - 🔭 I’m currently working on ... a fullstack clone of the whiteboarding software Miro.
+
+
+<hr>
+
+### ⚡ Fun fact: 
+I was a touring musician and have performed all over the United States.
 
 
 <!--
