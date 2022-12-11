@@ -1,7 +1,7 @@
 ## Greetings 👋
 <hr>
 
-I'm a developer from New Jersey currently living in Denver. I've been a touring musician and I love to ski. 
+I'm a developer from New Jersey currently living in Denver.  
 
 
 
@@ -28,6 +28,7 @@ I'm a developer from New Jersey currently living in Denver. I've been a touring 
 
 ### ⚡ Fun fact: 
 I was a touring musician and have performed all over the United States.
+I also LOVE to snowboard.
 
 
 <!--
